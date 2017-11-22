@@ -2,7 +2,6 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
-
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
@@ -11,7 +10,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
-        versionName "2.0.0"
+        versionName "1.0.0"
     }
     buildTypes {
         release {
