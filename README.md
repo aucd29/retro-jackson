@@ -15,6 +15,6 @@ Step 2. Add the dependency
 
 ```gradle
 dependencies {
-	    compile 'com.github.aucd29:retro-jackson:1.0.0'
+    compile 'com.github.aucd29:retro-jackson:1.0.0'
 }
 ```
