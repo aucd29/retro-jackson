@@ -33,4 +33,3 @@ proguard/
 /captures
 *.iml
 .gradle
-/gradle
